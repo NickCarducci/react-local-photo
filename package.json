@@ -1,0 +1,38 @@
+{
+    "name": "react-local-photo",
+    "version": "1.4.6",
+    "description": "react-local-photo, a lazy-loader for path, url or PouchDB-cached src",
+    "main": "src/index.js",
+    "keywords": [
+        "FileReader",
+        "src",
+        "img",
+        "Buffer",
+        "readAsDataURL",
+        "import",
+        "pouchdb",
+        "react-dom",
+        "react",
+        "createElement"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/nickcarducci/react-local-photo"
+    },
+    "files": [
+        "src",
+        "index.js"
+    ],
+    "sideEffects": false,
+    "license": "UNLICENSED",
+    "author": "Nick Carducci nick@carducci.sh",
+    "bugs": {
+        "url": "https://github.com/nickcarducci/react-local-photo"
+    },
+    "peerDependencies": {
+        "firebase": ">=8.7.0",
+        "pouchdb": "^7.2.2",
+        "pouchdb-upsert": ">=2.2.0",
+        "react": ">=16.8.0"
+    }
+}
